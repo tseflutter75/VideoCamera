@@ -1,0 +1,3 @@
+const String agoraAppId = "5bdbf3216a264f20b2d6593e9ea6a906";
+const String rtcToken =
+    "007eJxTYAg/Gr09baed7K5Hv1scIuL26ltJn5lelb3uoFjYA9mipV0KDKZJKUlpxkaGZolGZiZpRgZJRilmppbGqZapiWaJlgZmTbqHshoCGRkmm1azMjEwgiGIz8OQkpqbr5uckZiXl5rDwMAEl2FhMDQwMAQAjxcj2A==";
